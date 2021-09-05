@@ -1,0 +1,30 @@
+.projects {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.projects > div {
+    margin: 2px;
+    padding: 5px;
+    flex: 1;
+    flex-basis: 12%;
+    min-width: 350px;
+    min-height: 230px;
+    background-color: #e7e7e7;
+}
+
+.projects > div:hover {
+    box-shadow: 0 0 6px #404040;
+}
+
+.projects h2 {
+    margin-top: 0;
+    font-size: 23px;
+    font-weight: 550;
+    color: darkblue;
+}
+
+.projects p {
+    margin-top: -20px;
+}

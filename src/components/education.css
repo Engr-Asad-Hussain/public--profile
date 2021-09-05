@@ -1,0 +1,31 @@
+.edc-main {
+    display: flex;
+    text-align: left;
+}
+
+.education-container {
+    flex: 1;
+}
+
+.ach-container {
+    flex: 1;
+}
+
+.edc-header {
+    font-size: 30px;
+    font-weight: 500;
+    text-decoration: underline 2px;
+    text-underline-offset: 5px;
+}
+
+.education-container h4 {
+    font-size: large;
+    font-weight: 550;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.edc {
+    color: darkblue;
+    margin-top: 0;
+}

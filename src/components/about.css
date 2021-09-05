@@ -1,0 +1,40 @@
+.about {
+    text-align: left;
+}
+
+.exp-tag > p {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.work-exp {
+    display: flex;
+}
+
+.work-header {
+    flex: 1;
+}
+
+.work-header > p:hover {
+    color: darkBlue;
+    cursor: pointer;
+}
+
+.work-details {
+    flex: 2;
+    background-color: #e7e7e7;
+    padding: 5px;
+    margin-top: -30px;
+}
+
+.work-details:hover {
+    box-shadow: 0 0 4px #404040;
+}
+
+.black {
+    color: black;
+}
+.blue {
+    color: darkBlue;
+}

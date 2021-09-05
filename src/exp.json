@@ -1,0 +1,55 @@
+{
+    "nrl": {
+        "name": "National Refinery Limited",
+        "desg": "Trainee Engineer",
+        "period": "1st March 2021 - Present",
+        "res": {
+            "a": "Diagnosis faults through DCS.",
+            "b": "Technical support for the instrumentation team.",
+            "c": "Responsible for maintaining healthy Fire Alarm System (Notifier – Honeywell)"
+        },
+        "acc": {
+            "a": "Learnt field instruments, controllers and their calibration i.e., transmitters, analyzers, control valves etc.",
+            "b": "Excellent knowledge on industrial safety and equip.",
+            "c": "MIR/Order/Maintenance Plan creation in SAP."
+        }
+    },
+    "pac": {
+        "name": "Pakistan Aeronautical Complex Kamra, Attock",
+        "desg": "Intern",
+        "period": "20th May’2019 to 31th May’2019",
+        "res": {
+            "a": "Worked under the supervision of Project Manager.",
+            "b": "Projects includes soldering and de-soldering aircraft’s parts including PCB’s and its radar system.",
+            "c": "Learnt the process of PCB designing, controlling mechanism of the aircrafts and its maintenance."
+        },
+        "acc": {
+            "a": "Learnt fault detection and designing of PCB using different machines",
+            "b": "Soldering desoldering of PCB's using ball bearing Techniques etc",
+            "c": "Working and internal stucture of a cockpit of JF-17 Thunder"
+        }
+    },
+    "pcsir": {
+        "name": "Pakistan Council of Scientific & Industrial Research",
+        "desg": "Intern",
+        "period": "Aug’2019 to Sept’2019",
+        "res": {
+            "a": "Set up a controlling mechanism of chemical shaker (220AC motor) through interfacing it with Arduino.",
+            "b": "Design the complete circuit on Veroboard and simulate on software Proteus.",
+            "c": "Learnt the working of auto-transformer, relays and parameters that affect/damage the shaker."
+        },
+        "acc": {
+            "a": "Develops leadership skills by leading the project.",
+            "b": "Planning and pre-steps to take in every project.",
+            "c": "Management skills improves while working with project incharge."
+        }
+    },
+    "Certifications-in-Advance-Industrial-Automation-&-Control-Systems": "Did certification in Advance Industrial Automation and Control System. Hands on experience of PLC and HMI design",
+    "Circuitry-&-Schematic-Design": "Solid foundation in circuitry and schematic design including digital/analog circuits, signal processing and wireless networks",
+    "Wireless-Systems": "Extensive knowledge of wireless systems i-e., IoT base solutions and rf transceivers.",
+    "Controllers-&-Sensors": "Deep knowledge of PID controller, VFD’s, pneumatics, pressure/temperature sensors, encoders, proximity sensors, level switches etc.",
+    "Firmware-Developer": "Certified firmware developer of Arduino and Raspberry Pi.",
+    "Matlab": "Proficient in MATLAB Programming.",
+    "Programming-Languages": "Comprehensive skills of C, Python, Rust, JavaScript, Git & GitHub.",
+    "Microsoft-Office": "Proficient in Microsoft Word/Excel/PowerPoint"
+}

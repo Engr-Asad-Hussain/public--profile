@@ -1,0 +1,6 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  height: 600px;
+}

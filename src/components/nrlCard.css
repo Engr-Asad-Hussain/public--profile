@@ -1,0 +1,9 @@
+.nrl > h2 {
+    margin-top: 0;
+    color: darkblue;
+}
+
+.nrl p {
+    margin-top: 8px;
+    margin-bottom: 0;
+}

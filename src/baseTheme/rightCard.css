@@ -1,0 +1,30 @@
+.sub-container-2 {
+  margin-left: 1%;
+  width: 80%;
+  background-color: #ffffff;
+  border: solid 2px #ffffff;
+  border-radius: 6px;
+  padding: 15px;
+}
+
+.nav-bar {
+  height: 30px;
+  background-color: #ffffff;
+  justify-content: space-between;
+  display: flex;
+  margin: 15px;
+  margin-bottom: 30px;
+  margin-left: 0;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
+.underline {
+  color: blue;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
