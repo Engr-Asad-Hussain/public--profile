@@ -1,9 +1,40 @@
-.nrl > h2 {
+.mt {
     margin-top: 0;
-    color: darkblue;
 }
 
 .nrl p {
     margin-top: 8px;
     margin-bottom: 0;
 }
+
+/*
+
+.mt {
+    margin-top: 0;
+}
+.bg-color {
+  background-color: #ffffff;
+}
+.border {
+  border: solid 2px #ffffff;
+}
+.ul-o {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.black {
+    color: black;
+}
+.d-blue {
+    color: darkBlue;
+}
+.f-cont {
+    flex: 1;
+}
+.ta-l {
+    text-align: left;
+}
+.bg {
+    background-color: #e7e7e7;
+}
+*/

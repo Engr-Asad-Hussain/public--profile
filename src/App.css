@@ -2,5 +2,11 @@
   text-align: center;
   padding: 20px;
   display: flex;
-  height: 600px;
+  min-height: 600px;
+}
+
+@media screen and (max-width: 850px) {
+  .app-container {
+    flex-direction: column;
+  }
 }

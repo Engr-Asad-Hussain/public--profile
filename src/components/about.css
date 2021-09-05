@@ -1,40 +1,48 @@
-.about {
-    text-align: left;
+.ta-l {
+  text-align: left;
+}
+
+.bg {
+  background-color: #e7e7e7;
 }
 
 .exp-tag > p {
-    font-size: 30px;
-    font-weight: 500;
-    margin-bottom: 0;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 0;
 }
 
 .work-exp {
-    display: flex;
+  display: flex;
 }
 
-.work-header {
-    flex: 1;
-}
-
-.work-header > p:hover {
-    color: darkBlue;
-    cursor: pointer;
+.work-tag > p:hover {
+  color: darkBlue;
+  cursor: pointer;
 }
 
 .work-details {
-    flex: 2;
-    background-color: #e7e7e7;
-    padding: 5px;
-    margin-top: -30px;
+  flex: 2;
+  padding: 5px;
+  margin-top: -30px;
+}
+
+@media screen and (max-width: 650px) {
+  .work-exp {
+    flex-direction: column;
+  }
+  .work-details {
+      margin-top: 0;
+  }
 }
 
 .work-details:hover {
-    box-shadow: 0 0 4px #404040;
+  box-shadow: 0 0 4px #404040;
 }
 
 .black {
-    color: black;
+  color: black;
 }
-.blue {
-    color: darkBlue;
+.d-blue {
+  color: darkBlue;
 }

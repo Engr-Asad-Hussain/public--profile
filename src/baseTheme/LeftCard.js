@@ -11,19 +11,19 @@ import './leftCard.css';
 function LeftCard() {
     return (
         <>
-            <div className="sub-container-1">
+            <div className="sub-container-1 bg-color border">
                 <img className="user-logo" src={logo_user} alt="user_profile" />
-                <div className="user-profile">
-                    <h1>Asad Hussain</h1>
+                <div className="user-profile bg-color">
+                    <h1 className="blue">Asad Hussain</h1>
                     <p>Electronics Engineer</p>
                     <p>PEC No: ELECTRO/7836</p>
                 </div>
-                <div className="links-group">
+                <div className="links-group bg-color">
                     <a href="https://www.linkedin.com/in/asad-hussain1998" target="_blank" rel="noreferrer"><img src={logo_linkedIn} alt="linkedIn" /></a>
                     <a href="https://github.com/Engr-Asad-Hussain" target="_blank" rel="noreferrer"><img src={logo_github} alt="github" /></a>
                     <a href="https://www.facebook.com/asadhussain1998/" target="_blank" rel="noreferrer"><img src={logo_facebook} alt="facebook" /></a>
                 </div>
-                <div className="details">
+                <div className="details bg">
                     <div className="location">
                         <img src={logo_location} alt="location" />
                         <p>Karachi, Pakistan</p>

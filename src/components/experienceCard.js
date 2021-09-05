@@ -6,7 +6,7 @@ function ExperienceCard({ data }) {
     return (
         <>
             <div className="nrl">
-                <h2>{Object.entries(exp)[data][1].name}</h2>
+                <h2 className="d-blue mt">{Object.entries(exp)[data][1].name}</h2>
                 <p>Designation: {Object.entries(exp)[data][1].desg}</p>
                 <p>Period: {Object.entries(exp)[data][1].period}</p>
                 <p 

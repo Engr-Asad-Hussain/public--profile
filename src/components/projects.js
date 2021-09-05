@@ -3,8 +3,8 @@ import './projects.css';
 function Projects() {
     return (
         <div className="projects">
-            <div className="srl">
-                <h2>Smart Robo Lawnmower</h2>
+            <div className="srl bg">
+                <h2 className="mt d-blue">Smart Robo Lawnmower</h2>
                 <p>(Final Year Project)</p>
                 <ul>
                     <li>Smart robot for agricultural field that cuts the grass powered by solar system.</li>
@@ -13,24 +13,24 @@ function Projects() {
                     <li>Keeping all the expenses in check managed to build the robot under the set budget.</li>
                 </ul>
             </div>
-            <div className="plc">
-            <h2>Temperature Control System via PLC & HMI</h2>
+            <div className="plc bg">
+            <h2 className="mt d-blue">Temperature Control System via PLC & HMI</h2>
                 <ul>
                     <li>Implemented the temperature controlled system using delta PLC.</li>
                     <li>Associated PID controllers for 3 phase motor, VFD etc.</li>
                     <li>Build HMI of the project to interact with the users.</li>
                 </ul>
             </div>
-            <div className="has">
-            <h2>Smart Home Automation System</h2>
+            <div className="has bg">
+            <h2 className="mt d-blue">Smart Home Automation System</h2>
                 <ul>
                     <li>Controlled electronic appliances through IoT via mobile application.</li>
                     <li>Structured the circuit on Veroboard and interface it with Raspberry Pi. </li>
                     <li>System includes variants such as triggers the notification, generate emails etc.</li>
                 </ul>
             </div>
-            <div className="abc">
-            <h2>Smart Home Automation System</h2>
+            <div className="abc bg">
+            <h2 className="mt d-blue">Smart Home Automation System</h2>
                 <ul>
                     <li>Controlled electronic appliances through IoT via mobile application.</li>
                     <li>Structured the circuit on Veroboard and interface it with Raspberry Pi. </li>

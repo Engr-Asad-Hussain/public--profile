@@ -34,11 +34,6 @@
     backface-visibility: hidden;
 }
 
-.flip-card-front {
-    background-color: #e7e7e7;
-    color: darkblue;
-}
-
 .flip-card-front > p {
     position: relative;
     top: 25%;
@@ -46,6 +41,5 @@
 
 .flip-card-back {
     background-color: #c0bdbd;
-    color: rgb(0, 0, 0);
     transform: rotateY(180deg);
 }

@@ -1,31 +1,32 @@
+.f-cont {
+  flex: 1;
+}
+
 .edc-main {
-    display: flex;
-    text-align: left;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.education-container {
-    flex: 1;
-}
-
-.ach-container {
-    flex: 1;
+@media screen and (max-width: 650px) {
+  .edc-main {
+    flex-direction: column;
+  }
 }
 
 .edc-header {
-    font-size: 30px;
-    font-weight: 500;
-    text-decoration: underline 2px;
-    text-underline-offset: 5px;
+  font-size: 30px;
+  font-weight: 500;
+  text-decoration: underline 2px;
+  text-underline-offset: 5px;
 }
 
-.education-container h4 {
-    font-size: large;
-    font-weight: 550;
-    margin-top: 25px;
-    margin-bottom: 0;
+.f-cont h4 {
+  font-size: large;
+  font-weight: 550;
+  margin-top: 25px;
+  margin-bottom: 0;
 }
 
-.edc {
-    color: darkblue;
-    margin-top: 0;
+.ach-cont {
+  flex: 1;
 }
